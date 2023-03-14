@@ -94,6 +94,16 @@ First of all connect sensors with Arduino for input:
 23. COMMON PIN to directly Fan.
 24. NORMAL CLOSE to directly 220v
 
+# Fingerprint lock System
+
+## Introduction(fingerprint)
+This part contain a smart door lock with fingerprint interface. This is an Arduino compatible fingerprint module with the high speed DSP processor. This fingerprint module could work alone without any principal computer or any PC software. It could store 1000 fingerprints. Support fingerprint entry, intelligent image processing, finger print comparison and fingerprint search mode. It also has a high sensitivity to both wet and dry fingerprint recognition.
+
+## Working principal
+Fingerprint processing includes two process: fingerprint login process and fingerprint matching process. When fingerprint login each enter two times, will two the second entry image is processed, and the composite template is stored in the module. When the fingerprint is matched through the fingerprint sensor the image to be verified entered and processed then matched with the fingerprint template.
+
+## Devices 
+For the implementation of this project we will be using a fingerprint sensor, arduino,breadboard,solenoid door lock, LCD 16x2.
 
 
 
