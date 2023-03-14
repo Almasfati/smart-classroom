@@ -1,4 +1,4 @@
-# smart-classroom
+# Smart-classroom
 ## Introduction 
 We are going to made a smart classroom by using Arduino. Our project has 2 parts 
 1. Smart lights and fans
