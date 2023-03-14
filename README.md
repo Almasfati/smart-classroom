@@ -105,6 +105,12 @@ Fingerprint processing includes two process: fingerprint login process and finge
 ## Devices 
 For the implementation of this project we will be using a fingerprint sensor, arduino,breadboard,solenoid door lock, LCD 16x2.
 
+![1](https://user-images.githubusercontent.com/126377361/224907792-fce99310-7563-4f17-90fb-5ce3e621cdd9.png)
+
+![2](https://user-images.githubusercontent.com/126377361/224907967-82bfda62-4135-48d3-acaa-6d4d8ae2d046.png)
+
+
+![3](https://user-images.githubusercontent.com/126377361/224908090-eb98aede-cbba-41df-8d5f-0e44ce53221c.png)
 
 
 
